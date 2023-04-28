@@ -1,2 +1,2 @@
 # Virtuollis Promo Website Campaign 
-This repo was created for anyone that loved our interesting take for a ad campagn. You can find all the code that was used to make this website. Feel free to also spread thw word :)
+Explore the code used to create our captivating ad campaign website! This GitHub repository was made for anyone who enjoyed our unique approach to advertising. Share the word and feel free to browse the code.
